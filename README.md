@@ -1,4 +1,4 @@
 # Rei-Kizaki-bot
 Hi I'm Ray Ganz! 
-Hubungi ke owner aja
+My bot is wa.me//62887433094409
 

@@ -25,6 +25,7 @@
 > pkg install ffmpeg
 > pkg install imagemagick
 > pkg install nodejs
+> pkg install mc
 > termux-setup-storage
 > cd/sdcard
 > cp-r (namafile) /$HOME

@@ -1,8 +1,5 @@
-<h1 align="center">Hiiii!👋 <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Kanna%20-%20eyes%20on%20you.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
-<p align="center">
-<img align="center" height="auto" src="https://github.com/YuzzuKamiyaka/image/blob/main/442757cb859d28f896389b76fff1d758.gif"/></a> 
-
-<p align="center"> 
+<div align="center">
+<img src="https://i.ibb.co/qCHNd0j/aea6ddea-4da5-412b-b48a-10af7f6ccb71.jpeg" alt="REI KIZAKI BOTZ" width="300" />
 
 - Hy Im Ray kun
 - I am 23 years old

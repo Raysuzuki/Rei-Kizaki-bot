@@ -32,6 +32,7 @@
 > npm install / npm i
 > cd
 > cd (namafile) 
+> npm update
 > bash install.sh
 > npm start
 

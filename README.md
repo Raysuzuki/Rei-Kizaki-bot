@@ -1,4 +1,4 @@
-<<h1 align="center">こんにちは👋 <img src="https://github.com/RayGanz/Rei-Kizaki-bot/pull/7#issuecomment-981620219" style="border-radius:5;" width="45px" alt=""><br></h1>
+<h1 align="center">こんにちは👋 <img src="https://github.com/RayGanz/Rei-Kizaki-bot/pull/7#issuecomment-981620219" style="border-radius:5;" width="45px" alt=""><br></h1>
 <p align="center">
 <img align="center" height="auto" src="https://user-images.githubusercontent.com/95025437/143873883-9674d5c6-7b6a-4cc7-91e7-55257e177961.mp4"/></a> 
 

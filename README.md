@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1> 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95025437/143872781-90544ff4-be84-47ce-bf53-197920c8c549.mp4" />
+  <img src="https://github.com/RayGanz/Rei-Kizaki-bot/pull/7#issuecomment-981620219" />
 </p> 
 
 <p align="center"> 
